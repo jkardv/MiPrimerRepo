@@ -6,6 +6,5 @@ Abre el archivo `hola_mundo.py` para ver un simple programa "Hola Mundo" en Pyth
 
 ## ¿Cómo ejecutar el programa?
 Puedes ejecutar el programa de la siguiente manera:
-
- ```bash
+```bash
 python hola_mundo.py
